@@ -99,7 +99,7 @@ Allows updating equipment details.
 
 ## 👨‍🎓 Developed By
 
-**Ihab Saed Afaneh**  
+**Ihab Afaneh**  
 **Randa issa**
 
 Faculty of CSI  
