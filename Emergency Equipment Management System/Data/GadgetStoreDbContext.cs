@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using GadgetStore.Models;
 using Microsoft.EntityFrameworkCore;
-//using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+//change page name;
 namespace GadgetStore.Data
 {
     public class GadgetStoreDbContext : IdentityDbContext<IdentityUser>
