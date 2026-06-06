@@ -135,7 +135,7 @@ namespace GadgetStore.Data
             {
                 await roleManager.CreateAsync(new IdentityRole(adminRole));
             }
-
+// 
             // Ensure admin user exists
             var adminEmail = "admin@gadgetstore.com";
             var adminPassword = "Admin@123";
