@@ -6,7 +6,8 @@ namespace GadgetStore.Data
 {
     public class GadgetStoreDbContext : IdentityDbContext<IdentityUser>
     {
-        public GadgetStoreDbContext(DbContextOptions<GadgetStoreDbContext> options) : base(options) { }
+       //baskgroound color
+       public GadgetStoreDbContext(DbContextOptions<GadgetStoreDbContext> options) : base(options) { }
 
        // public DbSet<ContactUs> ContactUs { get; set; }
 
